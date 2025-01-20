@@ -1,3 +1,4 @@
-Desafio de entrevista - Prever Churn
+Desafio de Entrevista: Prever Churn
+===============================================================================
 
-Respondi as perguntas do desafio no notebook no github 'analise_exploratoria.ipynb'
+Respondi as perguntas do desafio no Jupyter notebook 'analise_exploratoria.ipynb'
